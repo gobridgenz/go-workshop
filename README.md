@@ -2,7 +2,7 @@
 
 This is the Wellington Women Who go Go workshop.
 
-### 1. Code of Conduct.
+### 1. Code of Conduct [(resources)](resources.md)
   - Contribution strongly enforced guidelines
   - Community guidelines
   - Welly gopher
